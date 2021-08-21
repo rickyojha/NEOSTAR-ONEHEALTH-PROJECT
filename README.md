@@ -1,3 +1,5 @@
+![Visitor](https://visitor-badge.laobi.icu/badge?page_id=https://github.com/rickyojha/NEOSTAR-ONEHEALTH-PROJECT)
+
 # NEOSTAR-ONEHEALTH-PROJECT (https://neostar-res.in/)
 [Preprint: first publication from the project](https://www.authorea.com/users/420668/articles/526967-first-one-health-study-on-genome-wide-comparison-of-multidrug-resistant-escherichia-coli-from-human-animal-aquaculture-environment-continuum-a-collective-effort-from-six-institutes-of-india)
 
